@@ -17,6 +17,7 @@ The main objective is to automatically identify publications that belong to UNZA
 •	Support strategic decision-making in research funding, performance evaluation, and collaborations.
 
 1.4 Data Mining Goals
+
 •	Develop a classification model that can predict whether a publication belongs to a UNZA faculty member based on its metadata.
 •	Apply supervised machine learning techniques using labeled examples of UNZA and non-UNZA publications.
 •	Extract and engineer features such as presence of “University of Zambia” in affiliations, “@unza.zm” in email addresses, and frequent co-authorship with known UNZA staff.
