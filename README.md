@@ -16,6 +16,13 @@ The main objective is to automatically identify publications that belong to UNZA
 •	Enhance research visibility for UNZA by ensuring faculty work is properly credited.
 •	Support strategic decision-making in research funding, performance evaluation, and collaborations.
 
+1.3 Business Success Criteria
+The success of the project will be measured by:
+1.	Classification Accuracy – The automated system should correctly identify at least 80% of publications as belonging or not belonging to UNZA faculty members.
+2.	Practical Usability – The system should allow research administrators and other stakeholders to process and verify publications with minimal effort.
+3.	Interpretability – The model should provide explanations for its predictions to build trust in the system’s decisions.
+
+
 1.4 Data Mining Goals
 
 •	Develop a classification model that can predict whether a publication belongs to a UNZA faculty member based on its metadata.
