@@ -10,16 +10,18 @@ The notebook follows a full machine learning pipeline:
     4.	Real-World Testing
     
  The system supports interactive testing where you can:
-* Select from preloaded publications using a dropdown.
-* Upload your own files (.pdf, .txt, .json, .csv) to test predictions.
+   * Select from preloaded publications using a dropdown.
+   * Upload your own files (.pdf, .txt, .json, .csv) to test predictions.
 ________________________________________
 
  # NOTE: You Must Run All Cells Before Testing
  
 Google Colab does not keep memory when the runtime disconnects. This means:
+
 *	Models are not pre-saved.
 *	If you only run the test code (Part 5), there will be no trained models in memory.
 *	Therefore, you must execute the entire pipeline (Parts 1–4) first.
+  
 Here’s what happens in each part:
 
     1.	Part 1–2: Data Loading & Cleaning → Loads the dataset and cleans text.
